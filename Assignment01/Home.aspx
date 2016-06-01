@@ -29,17 +29,17 @@ Specialties:<br />
 •	Excellent Written and Verbal Communication and Team Collaboration skills.<br />
 •	Valid Driver’s license, access to a vehicle.</p></p>
 
-				<a href="connect.html" class="hidden-xs hidden-sm"> Let's Connect! </a>
-				<a href="projects.html" class="hidden-xs hidden-sm">Know More </a>
+				<a href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/ContactMe.aspx" class="hidden-xs hidden-sm"> Let's Connect! </a>
+				<a href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Projects.aspx" class="hidden-xs hidden-sm">Know More </a>
 			</section></header>
 
 	</main>
 
 
 	<!-- JavaScript Section -->
-	<script src="Scripts/lib/jquery-2.2.0.min.js"></script>
-	<script src="Scripts/lib/bootstrap.min.js"></script>
-	<script src="Scripts/app.js"></script>
+	<script src="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Scripts/lib/jquery-2.2.0.min.js"></script>
+	<script src="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Scripts/lib/bootstrap.min.js"></script>
+	<script src="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Scripts/app.js"></script>
 
 <footer role="contentinfo">
 	<p><small>© Naga Rimmalapudi 2016</small></p>
