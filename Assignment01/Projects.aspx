@@ -3,23 +3,10 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <main class="container" role="main">
-		<div class="projectinfo">
-			<h1>Projects</h1>
-				<h3> A Sample of my recent Work </h3>
-		</div>
-		<p class="hidden-xs hidden-sm" id="info"> 
-			As a Fresher, I dont have any of my projects to show up online.So I would like to show my recent Project which I Built as a mini Project in the college using my Design skills which I gained in the previous semester.
-		</p>
-		<a href="http://gc200306175.computerstudi.es/Project/project/" title="My Resent College Project"> <img src="images/vintagecar.PNG" width="100%"> </a>
-	</main>
-	
-	<!-- JavaScript Section -->
-	<script src="Scripts/lib/jquery-2.2.0.min.js"></script>
-	<script src="Scripts/lib/bootstrap.min.js"></script>
-	<script src="Scripts/app.js"></script>
-
-<footer role="contentinfo">
-	<p><small>© Naga Rimmalapudi 2016</small></p>
-</footer>
+    <h3>Welcome to the Projects Arena</h3>
+    <p>1. Wipro Technologies Internal website portal</p>
+    <p>2. Credit suisse Automation Testing  </p>
+    <p>3. United Health Group Operating System Deployment</p>
+    <p>4. United Health Group Next Day Support</p>
+    <p>5. Government of Ontario Accessibility Technology solutions</p>
 </asp:Content>
