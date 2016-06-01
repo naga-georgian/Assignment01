@@ -82,6 +82,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="css\app.css" />
     <Content Include="css\font-awesome.css" />
     <Content Include="css\font-awesome.min.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
@@ -102,14 +103,18 @@
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Home.aspx" />
     <Content Include="Projects.aspx" />
+    <Content Include="Scripts\app.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-2.2.0.min.js" />
+    <Content Include="Scripts\npm.js" />
     <Content Include="Services.aspx" />
     <Content Include="Web.config" />
     <Content Include="Site1.Master" />
     <Content Include="Site2.Master" />
+    <Content Include="Scripts\jquery-2.2.0.min.map" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutMe.aspx.cs">
