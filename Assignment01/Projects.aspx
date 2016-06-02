@@ -10,6 +10,6 @@
     <p>4. United Health Group Next Day Support</p>
     <p>5. Government of Ontario Accessibility Technology solutions</p>
     <footer role="contentinfo">
-	
+	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
 </footer>
 </asp:Content>
