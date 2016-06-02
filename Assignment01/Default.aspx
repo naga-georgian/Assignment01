@@ -1,4 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment01.Home" %>
+﻿<%-- 
+     File Name: Default.aspx
+     Author's Name: Naga Rimmalapudi
+     Website Name: My Portfolio
+     File Description: This displays the home page of the portfolio
+     
+    --%>
+
+<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Assignment01.Home" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

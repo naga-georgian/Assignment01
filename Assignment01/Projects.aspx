@@ -2,6 +2,13 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
 </asp:Content>
+<%-- 
+     File Name: Projects.aspx 
+     Author's Name: Naga Rimmalapudi
+     Website Name: My Portfoilio
+     File Description: This displays the projects done by me
+     
+    --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h2>Welcome to the Projects Arena</h2>
     <h3>1. Wipro Technologies Internal website portal</h3>

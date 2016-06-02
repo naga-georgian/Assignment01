@@ -1,4 +1,12 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Assignment01.Site1" %>
+﻿<%-- 
+     File Name: Site1.Master
+     Author's Name: Naga Rimmalapudi
+     Website Name: My Portfolio
+     File Description: This is a master page which controls Default.aspx,Projects.aspx, Services.aspx and AboutMe.aspx content pages.
+     
+    --%>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Assignment01.Site1" %>
 
 <!DOCTYPE html>
 
@@ -13,8 +21,10 @@
 	<link rel="stylesheet" href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Content/css/font-awesome.min.css"/>
 	<link rel="stylesheet" href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Content/app.css"/>
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+        <%-- Including bootstrap and JQuery --%>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <%-- Including Font Awesome --%>
     <link href="css/font-awesome.css" rel="stylesheet" />
     <link href="css/font-awesome.min.css" rel="stylesheet" />
     <title>Mini Portfolio</title>
@@ -25,18 +35,18 @@
 <body>
     <form id="form1" runat="server">
     <div>
-     
+         <%-- Navigation Bar --%>
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
       <a class="navbar-brand" href="#">Naga</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
-      <li><a href="AboutMe.aspx"><i class="fa fa-male" aria-hidden="true"></i>About me</a></li>
-       <li><a href="Projects.aspx"><i class="fa fa-file-text" aria-hidden="true"></i>Projects</a></li>
-        <li><a href="Services.aspx"><i class="fa fa-wrench" aria-hidden="true"></i>Services</a></li> 
-        <li><a href="ContactMe.aspx"><i class="fa fa-phone fa-lg"></i>Contact Me</a></li>
+      <li class="active"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+      <li><a href="AboutMe.aspx"><i class="fa fa-male" aria-hidden="true"></i> About me</a></li>
+       <li><a href="Projects.aspx"><i class="fa fa-file-text" aria-hidden="true"></i> Projects</a></li>
+        <li><a href="Services.aspx"><i class="fa fa-wrench" aria-hidden="true"></i> Services</a></li> 
+        <li><a href="ContactMe.aspx"><i class="fa fa-phone fa-lg"></i> Contact Me</a></li>
       </ul>
     
   </div>

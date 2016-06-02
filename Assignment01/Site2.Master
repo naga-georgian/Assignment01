@@ -13,9 +13,11 @@
 	<link rel="stylesheet" href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Content/css/font-awesome.min.css"/>
 		<link rel="stylesheet" href="C:/Users/RN/Desktop/College/ASP.NET/Assignment01/Assignment01/Assignment01/Content/app.css"/>
      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+      <%-- Including bootstrap and JQuery --%>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-     <link href="css/font-awesome.css" rel="stylesheet" />
+        <%-- Including font awesome --%> 
+    <link href="css/font-awesome.css" rel="stylesheet" />
     <link href="css/font-awesome.min.css" rel="stylesheet" />
     <title>Mini Portfolio</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
@@ -24,7 +26,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        
+            <%-- Navigation Bar --%>
        <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">

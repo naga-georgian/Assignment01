@@ -1,4 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="AboutMe.aspx.cs" Inherits="Assignment01.AboutMe" %>
+﻿<%-- 
+     File Name: AboutMe.aspx
+     Author's Name: Naga Rimmalapudi
+     Website Name: My Portfolio
+     File Description: This page describes about me
+     
+    --%>
+
+<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="AboutMe.aspx.cs" Inherits="Assignment01.AboutMe" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <title>Mini Portfolio</title>
 </asp:Content>
