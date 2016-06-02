@@ -18,6 +18,6 @@
         <h2>&#9658; End User Transformation Services</h2>
 	</main>
     <footer role="contentinfo">
-	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
+	
 </footer>
 </asp:Content>
