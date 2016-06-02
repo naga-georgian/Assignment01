@@ -33,11 +33,11 @@
       <a class="navbar-brand" href="#">Naga</a>
     </div>
    <ul class="nav navbar-nav">
-      <li class="active"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
-      <li><a href="AboutMe.aspx"><i class="fa fa-male" aria-hidden="true"></i>About me</a></li>
-       <li><a href="Projects.aspx"><i class="fa fa-file-text" aria-hidden="true"></i>Projects</a></li>
-        <li><a href="Services.aspx"><i class="fa fa-wrench" aria-hidden="true"></i>Services</a></li> 
-        <li><a href="ContactMe.aspx"><i class="fa fa-phone fa-lg"></i>Contact Me</a></li>
+      <li class="active"><a href="Default.aspx"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+      <li><a href="AboutMe.aspx"><i class="fa fa-male" aria-hidden="true"></i> About me</a></li>
+       <li><a href="Projects.aspx"><i class="fa fa-file-text" aria-hidden="true"></i> Projects</a></li>
+        <li><a href="Services.aspx"><i class="fa fa-wrench" aria-hidden="true"></i> Services</a></li> 
+        <li><a href="ContactMe.aspx"><i class="fa fa-phone fa-lg"></i> Contact Me</a></li>
       </ul>
       </div>
 </nav>
