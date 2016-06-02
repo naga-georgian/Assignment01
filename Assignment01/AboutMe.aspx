@@ -3,6 +3,9 @@
     <title>Mini Portfolio</title>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div style="height: 90%;width: 90%;left: 1%;   opacity: .8;position: relative; top: 40px;border-radius: 20px" class="panel panel-default">
+		<h1 style="font-size: 60px;color: cornflowerblue">About me</h1>
+		<div class="panel-body" style="font-size: 20px;color: red;position: relative; top: 60px;left: 50px">
 <p>Microsoft Certified Technology Specialist with specialization in Windows 7 Operating System, Operating System Deployment and Microsoft Desktop Optimization Pack. Educated to degree level with 4 years of Information Technology experience. </br>Proven ability to understand bespoke software rapidly and understand complex working models in a variety of industries. </br>Highly motivated individual, able to work unaccompanied, lead or as part of a team accurately apply industry-level best practices techniques to minimize business risk. <br /> 
 <br /><br />
 Specialties:<br />
