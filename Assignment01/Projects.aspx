@@ -3,12 +3,12 @@
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h3>Welcome to the Projects Arena</h3>
-    <p>1. Wipro Technologies Internal website portal</p>
-    <p>2. Credit suisse Automation Testing  </p>
-    <p>3. United Health Group Operating System Deployment</p>
-    <p>4. United Health Group Next Day Support</p>
-    <p>5. Government of Ontario Accessibility Technology solutions</p>
+    <h2>Welcome to the Projects Arena</h2>
+    <h3>1. Wipro Technologies Internal website portal</h3>
+    <h3>2. Credit suisse Automation Testing  </h3>
+    <h3>3. United Health Group Operating System Deployment</h3>
+    <h3>4. United Health Group Next Day Support</h3>
+    <h3>5. Government of Ontario Accessibility Technology solutions</h3>
     <footer role="contentinfo">
 	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
 </footer>
