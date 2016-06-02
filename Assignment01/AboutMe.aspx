@@ -26,5 +26,8 @@ Specialties:<br />
 •	Proven ability to quickly learn and apply new technologies with technical background. Excellent analytic, problem solving skills and ability to follow through with projects from inception to completion.<br />
 •	Excellent Written and Verbal Communication and Team Collaboration skills.<br />
 •	Valid Driver’s license, access to a vehicle.</p></p>
+            <footer role="contentinfo">
+	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
+</footer>
 
 </asp:Content>
