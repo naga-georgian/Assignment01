@@ -34,7 +34,7 @@
 <script src="Scripts/app.js"></script>
 
 <footer role="contentinfo">
-	<p><small>© Naga Rimmalapudi 2016</small></p>
+	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
 </footer>
 <html>
 </asp:Content>

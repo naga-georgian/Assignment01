@@ -10,4 +10,7 @@
     <h3>I am a decent Programmer, Operating System Deployment Subject Matter Expert and Sr. Accessibility Technology Analyst.</h3>
 
 </p>    
+    <footer role="contentinfo">
+	<br /><br /><br /><p><small>© Naga Rimmalapudi 2016</small></p>
+</footer>
 </asp:Content>
